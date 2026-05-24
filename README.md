@@ -46,7 +46,7 @@ The research pipeline is centered on Isolation Forest and includes:
 
 This repository currently contains:
 
-- [Final report slide deck](./Long%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ti%E1%BB%83u%20-%20CS2205.JAN2026.DeCuong.FinalReport.Slide.pptx)
+- [Final report slide deck](./anemia_detection_isolation_forest_kubernetes.pdf)
 - `README.md`
 
 ## Current Status
